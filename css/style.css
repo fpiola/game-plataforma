@@ -1,0 +1,7 @@
+canvas{
+    background: #CCE0FF;
+	background-image:url('img/cenario.png');
+    background-repeat:no-repeat;
+    background-attachment:scroll;
+	border:1px solid #d3d3d3;
+}
