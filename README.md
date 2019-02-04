@@ -1,4 +1,4 @@
-# PlataformaGame
+# Game Plataforma
 
 ###Requirements
 
