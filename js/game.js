@@ -63,7 +63,7 @@ var tilemaps = {
 
 //player
 var player = {
-     x: 300,
+     x: 320,
      y: 320,
      width: 32,
      height: 32,
